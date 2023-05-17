@@ -1,0 +1,25 @@
+* {
+   font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+a:link {
+   color: #00bbff
+}
+
+a:visited {
+   color: #00bbff
+}
+
+body {
+   /* background-color: #FAFAFA; */
+   background-color: #0e0e0e;
+   color: #FAFAFA
+}
+
+#profilepic {
+   width: 100px;
+}
+
+.projectDemo {
+   width: 30%;
+}
