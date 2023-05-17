@@ -1,6 +1,13 @@
 * {
    font-family: 'Helvetica', 'Arial', sans-serif;
+   line-height: 1.4em;
 }
+
+/* img { */
+/*    border: 5px solid white; */
+/*    border-radius: 5px; */
+/*    overflow: hidden; */
+/* } */
 
 a:link {
    color: #00bbff
@@ -13,7 +20,8 @@ a:visited {
 body {
    /* background-color: #FAFAFA; */
    background-color: #0e0e0e;
-   color: #FAFAFA
+   color: #FAFAFA;
+   padding: 1.3em;
 }
 
 #profilepic {
@@ -21,5 +29,21 @@ body {
 }
 
 .projectDemo {
-   width: 30%;
+   width: 38em;
+   max-width: 100%;
+   margin-bottom: 2em;
+}
+
+#arcstat {
+   width: 25em;
+   max-width: 72%;
+}
+
+#ascii {
+   width: 28em;
+   max-width: 75%;
+}
+
+ul {
+   padding-left: 1.2em;
 }
